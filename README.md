@@ -2,9 +2,9 @@
 
 🌱 I’m currently working on something cool!
 
-👨‍💻 I’m currently learning with help from [docs.github.com](https://docs.github.com)
+👨‍💻 I’m starting my 2nd year CS Specialist @ UofT.
 
-💬 Ask me about GitHub
+💬 Ask me about good Thai food around Toronto :D 
 
 ---
 
@@ -18,5 +18,4 @@
 
 ### Let's connect:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/yourusername)
 
